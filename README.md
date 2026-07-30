@@ -81,11 +81,11 @@
 ### 📫 Connect With Me
 
 <p align="left">
-<!-- Replace # below with your actual links -->
-<a href="#" target="https://www.linkedin.com/in/vansh-kumar-idkwtfusee143/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+<a href="https://www.linkedin.com/in/vansh-kumar-idkwtfusee143/" target="_Blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vk1114211249@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#" target="https://leetcode.com/u/Vansh_kumar16/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="#" target="https://codeforces.com/profile/vk04"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Vansh_kumar16/" target="_Blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/vk04" target="_Blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
